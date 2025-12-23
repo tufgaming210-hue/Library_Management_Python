@@ -9,4 +9,4 @@ _ذخیره اطلاعات در فایل
 ##نحوه اجره
 Library_management.py
 ##نحوه خروجی برنامه
-(output.png)[test] !
+(output.png.png)[test] !
