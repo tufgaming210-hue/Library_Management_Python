@@ -8,3 +8,5 @@ _مدیریت کتابخانه
 _ذخیره اطلاعات در فایل
 ##نحوه اجره
 Library_management.py
+##نحوه خروجی برنامه
+(images/output.png)[Program Output] !
