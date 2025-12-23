@@ -9,4 +9,10 @@ _ذخیره اطلاعات در فایل
 ##نحوه اجره
 Library_management.py
 ##نحوه خروجی برنامه
-(output.png.png)[Program Output] !
+--- Menu ---
+1. Add book
+2. Remove book
+3. Search book
+4. Show all book
+5. Exit
+Your choice:
